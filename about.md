@@ -2,9 +2,8 @@ layout: default
 title: About Me
 ---
 # About Me
-Hello! I am Camila.
-Write a short paragraph about your interests, skills, or goals.
-**Do not include your real name, email, or any identifiable information.**
+Hello, my name is Camila. I'm 17 years old and I love art and medicine. One of my favorite sports is volleyball.
+I love spending quality time with my family, and when I graduate from high school, I'm going to college.
 
 <img width="542" height="626" alt="image" src="https://github.com/user-attachments/assets/46c76b86-5ec0-4cb2-bcb9-04fb4b60b50a" />
 
