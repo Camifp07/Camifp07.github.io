@@ -51,4 +51,4 @@ Binary is a number system that use 0 and 1.
      01000101 = 69
      00000100 = 4
 
-[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+[Notebook Style Guide](style.md)
